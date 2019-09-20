@@ -1,0 +1,2 @@
+# bsq
+pool bsq
