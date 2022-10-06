@@ -21,7 +21,7 @@ OBJ = analize_map.o bsq.o create_num_map.o ft_atoi.o get_params.o\
 	  get_string_from_file.o get_string_from_input.o max_finder.o\
 	  print_treasure.o valid_par.o
 
-HEADER = ./srcs/bsq.h
+HEADER = ./srcs/
 
 all : $(NAME)
 
